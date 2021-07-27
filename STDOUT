@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="29.107008">
+    <testcase classname="AlexandrieScenarioFeature" name="Scenario Alexandrie1" time="29.107008">
+        <system-out><![CDATA[Given I navigate to the login page..........................................passed
+And I enter "rgauvin@kpmg.fr" and "aezan75".................................passed
+And I click login button....................................................passed
+Then I navigate to the engagement page......................................passed
+Then I enter the engagement code : "2110678"................................passed
+Then I select the engagement................................................passed
+Then I validate the engagement..............................................passed
+Then I close the browser....................................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
