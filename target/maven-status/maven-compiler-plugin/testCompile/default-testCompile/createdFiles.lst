@@ -1,0 +1,8 @@
+Pages\ConfirmationPage.class
+Pages\EngagementsPage.class
+Pages\WelcomePage.class
+Steps\Alexandrie.class
+Pages\LoginPage.class
+Runner\TestRunner.class
+Pages\PDFPage.class
+Pages\DownloadsPage.class
